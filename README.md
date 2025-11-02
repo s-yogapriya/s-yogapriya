@@ -1,6 +1,8 @@
 ## Hi there 👋 It's me Hareesh
 
 I’m a passionate developer who loves building clean, efficient, and user-friendly solutions. 💻 I work with technologies like Python, JavaScript, HTML/CSS, and Git, and I’m always learning new tools to improve my craft. 🚀 I enjoy working on open-source projects, exploring new frameworks, and collaborating with developers around the world.
+
+
 <!--<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
