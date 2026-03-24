@@ -65,7 +65,12 @@ Dynamic data listing and rendering using JavaScript.
 **Tech:** HTML, CSS, JavaScript  
 
 ---
-## 📊 GitHub Activity <div align="center"> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s-yogapriya&show_icons=true&theme=github&hide_border=true) ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=s-yogapriya&theme=github-compact&hide_border=true) </div>
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=s-yogapriya&show_icons=true&theme=github&hide_border=true" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s-yogapriya&theme=github-compact&hide_border=true"/>
+</p>
 
 ---
 
