@@ -68,8 +68,8 @@ Dynamic data listing and rendering using JavaScript.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s-yogapriya&show_icons=true&theme=github&hide_border=true" height="150"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s-yogapriya&theme=github-compact&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=s-yogapriya&show_icons=true&theme=github&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s-yogapriya&theme=github-compact&hide_border=true" />
 </p>
 
 ---
