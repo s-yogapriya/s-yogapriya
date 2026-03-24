@@ -1,7 +1,11 @@
 # Hi there, I'm Yogapriya S 👋
 
 ## 🚀 About Me
-Aspiring **Full Stack Developer** from Trichy, Tamil Nadu. Focused on building responsive web apps and solving real-world problems using modern technologies.
+Aspiring **Full Stack Developer** from Trichy, focused on building responsive web applications and solving real-world problems using modern technologies.
+
+- 💻 Passionate about Web Development  
+- ⚡ Strong interest in Full Stack Engineering  
+- 🎯 Focused on clean UI & efficient backend systems  
 
 ---
 
@@ -26,53 +30,74 @@ Aspiring **Full Stack Developer** from Trichy, Tamil Nadu. Focused on building r
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## 🔥 Projects
 
-### 📱 Smart Ration Card System
-Web app for managing ration services and delivery.  
-**Tech:** HTML, CSS, PHP, MySQL  
+### 🧩 Full Stack & Desktop Applications
 
-### 📄 Invoice Generator
-Python desktop app for generating invoices with database integration.  
-**Tech:** Python, Tkinter, FPDF, MySQL  
+#### 🛒 Ration Distribution Management System
+Web-based system for managing ration services, user data, and distribution workflows.  
+**Tech:** HTML, CSS, PHP, Python, Tkinter, FPDF, MySQL  
 
----
-
-## 💼 Experience
-
-**Full Stack Intern – VDart Technologies**  
-- Built backend features using Django  
-- Worked with REST APIs  
-
-**Java Intern – Besant Technologies**  
-- Learned OOP & data structures  
-- Developed mini projects  
+#### 🧾 Automated Invoice Generation System
+Desktop application for generating invoices with database integration and PDF export.  
+**Tech:** HTML, CSS, PHP, Python, Tkinter, FPDF, MySQL  
 
 ---
 
-## 📊 GitHub Stats
+### 🌐 Frontend Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s-yogapriya&show_icons=true&theme=radical&hide_border=true)
+#### 🌿 Bird Sanctuary Web Interface
+Responsive UI showcasing sanctuary information.  
+**Tech:** HTML, CSS, JavaScript, Bootstrap  
+
+#### 📚 Online Old Book Store Interface
+Frontend e-commerce layout for displaying books.  
+**Tech:** HTML, CSS, JavaScript, Bootstrap  
+
+#### 📊 Data Listing Web Application
+Dynamic data listing and rendering using JavaScript.  
+**Tech:** HTML, CSS, JavaScript  
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s-yogapriya&show_icons=true&theme=github&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s-yogapriya&layout=compact&theme=github&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=s-yogapriya&theme=github-compact&hide_border=true)
+
+</div>
 
 ---
 
 ## 🎯 Current Focus
-- Full-stack development (React, Node.js)  
-- MongoDB & REST APIs  
-- Data Structures & Algorithms  
+- 🔨 Building full-stack apps with **React & Node.js**  
+- 📖 Learning **MongoDB**  
+- 🚀 Working with **REST APIs**  
+- 💪 Improving **DSA skills**  
 
 ---
 
-## 📫 Contact
+## 📫 Let's Connect
 - 📧 yogapriyasureshkumar2005@gmail.com  
 - 💼 https://linkedin.com/in/s-yogapriya  
 
 ---
 
-⭐ *"Code is like humor. When you have to explain it, it's bad."*
+<div align="center">
+
+### ⭐ "Code is like humor. When you have to explain it, it's bad." – Cory House  
+
+![Profile Views](https://komarev.com/ghpvc/?username=s-yogapriya&color=blueviolet&style=flat-square)
+
+</div>
