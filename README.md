@@ -1,22 +1,15 @@
 # Hi there, I'm Yogapriya S 👋
 
-<!-- <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/s-yogapriya)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogapriyasureshkumar2005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s-yogapriya)
-
-</div> -->
-
 ## 🚀 About Me
+Aspiring **Full Stack Developer** from Trichy, Tamil Nadu. Focused on building responsive web apps and solving real-world problems using modern technologies.
 
-Aspiring **Full Stack Developer** from Trichy, Tamil Nadu, with a passion for building responsive web applications and solving real-world problems through code. Currently expanding skills in **ReactJS, Node.js, and MongoDB**
+---
 
--
 ## 💻 Tech Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,90 +25,54 @@ Aspiring **Full Stack Developer** from Trichy, Tamil Nadu, with a passion for bu
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Tools
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🔥 Featured Projects
+---
 
-### 📱 Digital Supply of Provisions - Smart Ration Card System
-*Jan 2025 - Mar 2025*
+## 🔥 Projects
 
-A comprehensive web application for managing ration card services and doorstep delivery of provisions.
+### 📱 Smart Ration Card System
+Web app for managing ration services and delivery.  
+**Tech:** HTML, CSS, PHP, MySQL  
 
-**Key Features:**
-- Responsive frontend interfaces with HTML & CSS
-- Secure MySQL database for user and ration data management
-- Complete testing and documentation
-
-**Tech Stack:** `HTML` `CSS` `MySQL` `PHP`
+### 📄 Invoice Generator
+Python desktop app for generating invoices with database integration.  
+**Tech:** Python, Tkinter, FPDF, MySQL  
 
 ---
 
-### 📄 Invoice Generator for Web Services
-*July 2025 - Aug 2025*
+## 💼 Experience
 
-Desktop application for automating invoice generation with professional layouts and database integration.
+**Full Stack Intern – VDart Technologies**  
+- Built backend features using Django  
+- Worked with REST APIs  
 
-**Key Features:**
-- Python-based GUI using Tkinter
-- Automated PDF invoice creation with FPDF
-- MySQL integration for client and service record management
+**Java Intern – Besant Technologies**  
+- Learned OOP & data structures  
+- Developed mini projects  
 
-**Tech Stack:** `Python` `Tkinter` `FPDF` `MySQL`
-
-## 💼 Professional Experience
-
-### 🔹 Full Stack Intern | VDart Technologies, Trichy
-*Nov 2024 - Dec 2024*
-
-- Developed backend features using Python and Django framework (MVT architecture)
-- Integrated and tested REST APIs for seamless data exchange
-- Managed version control with Git/GitHub, including collaborative workflows
-
-### 🔹 Java Intern | Besant Technologies, Chennai
-*Nov 2024 - Dec 2024*
-
-- Training in Core Python with focus on OOP concepts and data structures
-- Built mini projects using object-oriented design principles
-- Enhanced skills in debugging, code optimization, and writing clean code
+---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s-yogapriya&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s-yogapriya&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=s-yogapriya&theme=radical&hide_border=true)
-
-</div>
-
-## 🎯 Current Focus
-
-- 🔨 Building full-stack projects with **React** and **Node.js**
-- 📖 Learning **MongoDB** for NoSQL database management
-- 🚀 Exploring **REST API** development and integration
-- 💪 Strengthening **Data Structures and Algorithms** skills
-
-## 📫 Let's Connect!
-
-I'm always open to collaborating on interesting projects or discussing web development. Feel free to reach out!
-
-- 📧 Email: yogapriyasureshkumar2005@gmail.com
-- 💼 LinkedIn: [s-yogapriya](https://linkedin.com/in/s-yogapriya)
-- 📱 Phone: +91 6383029191
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s-yogapriya&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
-<div align="center">
-  
-### ⭐ "Code is like humor. When you have to explain it, it's bad." – Cory House
+## 🎯 Current Focus
+- Full-stack development (React, Node.js)  
+- MongoDB & REST APIs  
+- Data Structures & Algorithms  
 
-![Profile Views](https://komarev.com/ghpvc/?username=s-yogapriya&color=blueviolet&style=flat-square)
+---
 
-</div>
+## 📫 Contact
+- 📧 yogapriyasureshkumar2005@gmail.com  
+- 💼 https://linkedin.com/in/s-yogapriya  
 
+---
+
+⭐ *"Code is like humor. When you have to explain it, it's bad."*
