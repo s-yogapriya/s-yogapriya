@@ -1,23 +1,18 @@
 # Hi there, I'm Yogapriya S 👋
 
-<div align="center">
+<!-- <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/s-yogapriya)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogapriyasureshkumar2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s-yogapriya)
 
-</div>
+</div> -->
 
 ## 🚀 About Me
 
-Aspiring **Full Stack Developer** from Trichy, Tamil Nadu, with a passion for building responsive web applications and solving real-world problems through code. Currently pursuing B.Sc Computer Science with hands-on experience in frontend and backend technologies.
+Aspiring **Full Stack Developer** from Trichy, Tamil Nadu, with a passion for building responsive web applications and solving real-world problems through code. Currently expanding skills in **ReactJS, Node.js, and MongoDB**
 
-- 🎓 B.Sc Computer Science Student (CGPA: 8.13/10) at Seethalakshmi Ramaswami College
-- 💼 Former Full Stack Intern at VDart Technologies
-- 🌱 Currently expanding skills in **ReactJS, Node.js, and MongoDB**
-- 📚 Actively learning through Full Stack Development Course at BigLearn and Python Course at Besant Technologies
-- 💡 Strong problem-solving abilities with a focus on clean, modular code
-
+-
 ## 💻 Tech Stack
 
 ### Languages
@@ -80,8 +75,8 @@ Desktop application for automating invoice generation with professional layouts 
 - Integrated and tested REST APIs for seamless data exchange
 - Managed version control with Git/GitHub, including collaborative workflows
 
-### 🔹 Python Intern | Besant Technologies, Chennai
-*Present*
+### 🔹 Java Intern | Besant Technologies, Chennai
+*Nov 2024 - Dec 2024*
 
 - Training in Core Python with focus on OOP concepts and data structures
 - Built mini projects using object-oriented design principles
