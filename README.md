@@ -1,3 +1,10 @@
+<div align="center">
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" 
+  width="480" alt="Coding GIF" />
+</div>
+
+---
+
 # Hi there, I'm Yogapriya S 👋
 
 ## 🚀 About Me
@@ -8,6 +15,17 @@ Aspiring **Full Stack Developer** from Trichy, focused on building responsive we
 - 🎯 Focused on clean UI & efficient backend systems  
 
 ---
+
+
+## 📫 Let's Connect
+<p align="center">
+  <a href="mailto:yogapriyasureshkumar2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/s-yogapriya">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ## 💻 Tech Stack
 
@@ -65,10 +83,11 @@ Dynamic data listing and rendering using JavaScript.
 **Tech:** HTML, CSS, JavaScript  
 
 ---
+
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s-yogapriya&show_icons=true&theme=github&hide_border=true" />
+  <!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=s-yogapriya&show_icons=true&theme=github&hide_border=true" /> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=s-yogapriya&theme=github-compact&hide_border=true" />
 </p>
 
@@ -79,12 +98,6 @@ Dynamic data listing and rendering using JavaScript.
 - 📖 Learning **MongoDB**  
 - 🚀 Working with **REST APIs**  
 - 💪 Improving **DSA skills**  
-
----
-
-## 📫 Let's Connect
-- 📧 yogapriyasureshkumar2005@gmail.com  
-- 💼 https://linkedin.com/in/s-yogapriya  
 
 ---
 
