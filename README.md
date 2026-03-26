@@ -93,7 +93,7 @@ Dynamic data listing and rendering using JavaScript.
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Focus
 - 🔨 Building full-stack apps with **React & Node.js**  
 - 📖 Learning **MongoDB**  
 - 🚀 Working with **REST APIs**  
